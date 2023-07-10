@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpaunoiu
 - 👀 I’m interested in IT programming
-- 🌱 I’m currently learning Codeberryscool
+- 🌱 I’m currently learning Teach.Bit
 - 💞️ I’m looking to collaborate in the development of the IT programmers community
 - 📫 How to reach me ??
 - Follow my evolution on Codeberryscool.
